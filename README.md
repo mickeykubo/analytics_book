@@ -4,6 +4,7 @@
 
 * jupyter1_0.ipynb  : Jupyter Notebookの使用法の基礎
 * debug.ipynb : デバッグの方法（オプション）
+* BasicProgramming2.0.ipynb : Python言語の基礎練習
 * NumPy1_0.ipynb	: numpyの使用法
 * pandas1_0.ipynb : pandasの使用法
 * matplotlib1_0.ipynb	: 図の書き方（matplotlib, seaborn）
