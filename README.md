@@ -8,6 +8,7 @@
 * BasicProgramming2_0.ipynb : Python言語の基礎(2) 
 * NumPy1_0.ipynb	: numpyの使用法
 * pandas1_0.ipynb : pandasの使用法
+* plotly2.0.ipynb : plotlyの基礎
 * matplotlib1_0.ipynb	: 図の書き方（matplotlib, seaborn）
 * statsmodels1_0.ipynb : 統計パッケージ statsmodels
 * sklearn2.ipynb : 機械学習パッケージ scikit-learn
