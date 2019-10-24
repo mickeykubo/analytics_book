@@ -10,6 +10,7 @@
 * pandas1_0.ipynb : pandasの使用法
 * matplotlib1_0.ipynb	: 図の書き方（matplotlib, seaborn）
 * plotly2.0.ipynb : plotlyの基礎
+* visualization1.1.ipynb : plotly.expressによるデータの描画方法
 * scipy.ipynb : 科学技術計算パッケージ SciPyの使用法
 * statsmodels1_0.ipynb : 統計パッケージ statsmodels
 * sklearn2.ipynb : 機械学習パッケージ scikit-learn
