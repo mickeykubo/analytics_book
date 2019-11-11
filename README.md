@@ -19,4 +19,5 @@
 * integer_optimization.ipynb : 整数最適化 mypulp (Gurobi) 	
 * 5-3. nonlinear_optimization.ipynb : 非線形最適化 
 * networkx1.ipynb	: ネットワーク最適化 networkX
+* forecast1_0.ipynb : Prophetによる予測
 * fastai_training_ver2.ipynb : 深層学習パッケージ fastai の使用法
