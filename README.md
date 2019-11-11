@@ -3,6 +3,7 @@
 ## 練習問題集
 
 * jupyter1_0.ipynb  : Jupyter Notebookの使用法の基礎
+* jupyter_lab1_0.ipynb  : Jupyter Lab.の使用法の基礎
 * debug.ipynb : デバッグの方法
 * BasicProgramming1_0.ipynb : Python言語の基礎(1)
 * BasicProgramming2_0.ipynb : Python言語の基礎(2) 
