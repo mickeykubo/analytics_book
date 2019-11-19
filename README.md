@@ -14,7 +14,7 @@
 * visualization1_1.ipynb : plotly.expressによるデータの描画方法
 * scipy.ipynb : 科学技術計算パッケージ SciPyの使用法
 * statsmodels1_0.ipynb : 統計パッケージ statsmodels
-* sklearn2.ipynb : 機械学習パッケージ scikit-learn
+* sklearn2_1.ipynb : 機械学習パッケージ scikit-learn
 * linear_optimization.ipynb	: 線形最適化 mypulp (Gurobi) 
 * integer_optimization.ipynb : 整数最適化 mypulp (Gurobi) 	
 * 5-3. nonlinear_optimization.ipynb : 非線形最適化 
